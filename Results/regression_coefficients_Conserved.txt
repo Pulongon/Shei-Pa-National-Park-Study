@@ -1,0 +1,21 @@
+
+******************************
+               estimate     stderr    t value
+(Intercept)  -3.538e-02 +1.625e-02 -2.177e+00
+river        +5.077e-06 +1.237e-05 +4.103e-01
+path         +4.800e-04 +3.490e-05 +1.375e+01
+deji         +1.276e-02 +5.053e-03 +2.526e+00
+service      -4.073e-18 +4.344e-15 -9.374e-04
+roads        +6.264e-05 +3.379e-05 +1.854e+00
+elevation    +2.487e-05 +6.798e-06 +3.658e+00
+hotel        +6.939e-18 +0.000e+00 +inf
+scenic       +5.591e-02 +1.516e-01 +3.687e-01
+---
+
+Residual standard error: 0.1515 on 1795 degrees of freedom
+Multiple R-squared: 0.3534
+Adjusted R-squared: 0.3505
+SSres: 41.1983
+server id hash: 3.14.1:./recserver_cache_py36/76e890d2cf86640e_fast_hash.pickle
+********************************
+
