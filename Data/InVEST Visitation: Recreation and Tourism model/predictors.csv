@@ -1,0 +1,9 @@
+id,path,type
+River,River.shp,line_intersect_length
+Path,Path.shp,line_intersect_length
+Deji,Deji.shp,polygon_percent_coverage
+Service,Service.shp,point_count
+Roads,Roads.shp,line_intersect_length
+Elevation,DEM_20m.tif,raster_mean
+Hotel,Hotel.shp,point_count
+Scenic,Scenic.shp,point_count
