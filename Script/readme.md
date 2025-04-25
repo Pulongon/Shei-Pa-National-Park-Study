@@ -15,13 +15,11 @@ Although the figures were prepared externally, the statistical procedures and da
 - Outputs include pairwise significance tests (used in Table 3) and optional bar chart visualization (Fig. 7).
 
 ### `plot_observed_vs_pud_dual_axis.R` 
-  Computes Pearson's correlation between monthly normalized visitor distribution and the Photographic User Data (PUD) index.  
-  Generates a dual Y-axis line plot comparing the temporal alignment between official visitor counts and social media photo activity.  
-  plot_observed_vs_pud_dual_axis.R  
-  Computes the Pearson correlation (r) between normalized monthly PUD and official visitor statistics (2008–2017) to validate PUD as a temporal tourism proxy.
-  Produces a dual-axis figure (bar + line) visualizing the alignment between datasets.  
-  Outputs: correlation result (r = 0.818, p = 0.001) and Figure 8.
-  This supports the use of PUD as a proxy for seasonal visitation intensity.
+-  Generates a dual Y-axis line plot comparing the temporal alignment between official visitor counts and social media photo activity.
+-  Computes the Pearson correlation (r) between normalized monthly PUD and official visitor statistics (2008–2017) to validate PUD as a temporal tourism proxy
+-  Produces a dual-axis figure (bar + line) visualizing the alignment between datasets.
+-  Outputs: correlation result (r = 0.818, p = 0.001) and Figure 8.
+-  This supports the use of PUD as a proxy for seasonal visitation intensity.
 
 ---
 
