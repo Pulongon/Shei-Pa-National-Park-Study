@@ -23,17 +23,6 @@ Although the figures were prepared externally, the statistical procedures and da
 
 ---
 
-## 📌 Future Additions (Recommended)
-
-To strengthen reproducibility and align with *Ecological Informatics* standards, the following scripts are recommended for upload:
-
-| Suggested Script Name | Function | Related Figure |
-|------------------------|----------|----------------|
-| `pud_vs_official_correlation.R` | Computes Pearson r between PUD and official visitor statistics | Fig. 8 |
-| `circular_statistics_PUD.R` | Applies Rayleigh test and plots seasonal patterns using circular statistics | Fig. 15 |
-
----
-
 ## 📚 Citation
 
 > Liu, C.-L. (2025). Assessing Tourism Pressure on Wildlife in a Protected Area: A Social Big Data Approach Using Photo-Sharing Data and Species Distribution Modelling. _Ecological Informatics._
