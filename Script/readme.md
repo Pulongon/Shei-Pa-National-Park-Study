@@ -14,6 +14,11 @@ Although the figures were prepared externally, the statistical procedures and da
 - Performs one-way ANOVA and Tukey’s HSD post hoc test on annual average PUD across five zoning categories in Shei-Pa National Park.
 - Outputs include pairwise significance tests (used in Table 3) and optional bar chart visualization (Fig. 7).
 
+- **`plot_observed_vs_pud_dual_axis.R`**  
+  Computes Pearson's correlation between monthly normalized visitor distribution and the Photographic User Data (PUD) index.  
+  Generates a dual Y-axis line plot comparing the temporal alignment between official visitor counts and social media photo activity (Fig. 3).  
+  This supports the use of PUD as a proxy for seasonal visitation intensity.
+
 ---
 
 ## 🔧 Dependencies
