@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions or collaborations, contact:  
+For questions related to data processing, statistical analysis, code implementation, or figure reproduction, please contact:  
 **Chih-Lin Liu**  
 Email: nthuman@gmail.com  
 National Chung Hsing University, Taiwan
