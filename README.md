@@ -29,6 +29,7 @@ We employed:
   - `monthly_PUD_summary.csv`: Aggregated monthly PUDs for circular statistics (Fig. 15)  
   - `species_occurrence_16.csv`: IUCN and national records of protected species  
   - `shei_pa_zoning_shapefile.zip`: GIS shapefiles of the park’s functional zones
+  - 'PUD_Category_Distribution_by_Management_Zones_SheiPa.csv': This dataset summarizes the distribution of tourism pressure, as quantified by the Flickr-derived Photo-User-Day (PUD) index (2008–2017), across five management zones within Shei-Pa National Park, Taiwan. It was used to generate Figure 7 in the associated publication (Fig. 7).
 
 - `scripts/`:  
   - `table3_tukeyHSD_pud_zones.R`: ANOVA and Tukey HSD post hoc comparison of PUD between five management zones  
