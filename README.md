@@ -82,5 +82,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions related to data processing, statistical analysis, code implementation, or figure reproduction, please contact:  
 **Chih-Lin Liu**  
-Email: nthuman@gmail.com  
+Email: d108033101@mail.nchu.edu.tw (primary)
+Alternate contact: nthuman@gmail.com
+Tel: +886-9-28880740
 National Chung Hsing University, Taiwan
